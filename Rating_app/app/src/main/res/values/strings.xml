@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">courseApp</string>
+    <string name="login">Login</string>
+    <string name="rate_your_course">Rate your course</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="activity2_name">WelcomeActivity</string>
+    <string name="welcome">welcome</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="subject_relavance">Subject relavance</string>
+    <string name="teacher_overall_performance">Teacher overall performance</string>
+    <string name="teacher_preparation">Teacher preparation</string>
+    <string name="amount_of_feedback">Amount of feedback</string>
+    <string name="how_good_their_examples_are">How good their examples are</string>
+    <string name="job_opportunities">Job opportunities</string>
+    <string name="send">Send</string>
+    <string name="Examples_rating">* The rating for your ability to show good examples in class is grade %1$s</string>
+    <string name="Feedback_rating">* The rating for your ability to give helpful feedback is grade %1$s</string>
+    <string name="Job_rating">* The rating for the course, giving the students job opportunities in the future, is grade %1$s</string>
+    <string name="Preparation_rating">* The rating for the preparation done before the lesson is grade %1$s</string>
+    <string name="Performance_rating">* The rating for your overall performance as a teacher is grade %1$s</string>
+    <string name="Relevancy_rating">* The rating for subject relevancy within the course is grade %1$s</string>
+    <string name="Mail_heading">The rating of your course has arrived!</string>
+    <string name="Mail_subject">Student rating of your course: </string>
+    <string name="Send_mail_chooser">Send mail...</string>
+    <string name="No_email_clients">There are no email clients installed.</string>
+    <string name="Invalid_username">Invalid username or password, try again!</string>
+</resources>
